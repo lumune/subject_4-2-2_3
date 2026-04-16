@@ -1,5 +1,8 @@
 # subject_4-2-2_3
 
+提出用課題 4-2-2 API連携実践課題 3. Gmail API
+
+
 # Gmail API でメール送信（Python）
 
 このプロジェクトは、Python から Gmail API を使ってメールを送信する最小構成のサンプルです。  
